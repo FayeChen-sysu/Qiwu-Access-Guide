@@ -9,9 +9,13 @@ You can access qiwu robot through these ways:
 
 您可以通过以下方式接入齐悟机器人
 
-1. [Traditional HTTP API call]()
+1. [HTTP API ]()  
+Traditional API call  
+传统 Http API 调用
 
-2. [Socket.IO]()
+2. [Socket.IO](https://github.com/noahzark/Qiwu-Access-Guide/blob/master/socketio.md)  
+Persistent connection based on Websocket  
+基于 Websocket 的长连接
 
 ***************************************************************
 
