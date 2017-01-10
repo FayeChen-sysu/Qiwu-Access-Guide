@@ -9,7 +9,7 @@ You can access qiwu robot through these ways:
 
 您可以通过以下方式接入齐悟机器人
 
-1. [HTTP API ]()  
+1. [HTTP API ](https://github.com/noahzark/Qiwu-Access-Guide/blob/master/httpapi.md)  
 Traditional API call  
 传统 Http API 调用
 
